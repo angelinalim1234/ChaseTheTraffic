@@ -206,7 +206,7 @@ Project is complete
 * Adding music so that the players can feel more engage to the game
 * More graphic to make the game looks professional
 
-## Acknowledgement
+## Acknowledgements
 Brain, M. (2024, March 5). How Television Works. Howstuffworks. How Television Works | HowStuffWorks
 
 Crawford, C. (1984). The art of computer game design. McGraw-Hill/Osborne Media.
