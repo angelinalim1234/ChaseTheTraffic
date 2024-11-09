@@ -9,14 +9,14 @@
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
-  ## General info
+## General info
 This game is called Chase the traffic and the aim of the game is so that we can improve our motoric skill, 
 
 ## Features
 * Sprite will jump when you press the A button
-* Enemy will always try to chase wherever you go
+* Enemy will always try to chase the car sprite
 * Have to collect the traffic sprite before the time ends
-* Shouldn't fall to the base of ground
+* Try our best so that the sprite shouldn't fall to the base of ground 
 
 ## Setup
 How to set up the game to Tinker Gen Game go game console 
