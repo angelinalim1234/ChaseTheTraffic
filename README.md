@@ -25,7 +25,7 @@ How to set up the game to Tinker Gen Game go game console
 3) Find and right click on the downloaded uf2 file on your computer. Send it to GameGo, Or, you can copy the file and paste it onto GameGo. When downloading the project. make sure the LED indicator on GameGo keeps blinking and only becomes steady after downloading completes.
 
 ## Technologies
-I am using MakeCode arcade platform to make this game. Makecode arcade uses blocks and python technologies
+I am using MakeCode arcade platform to make this game. Makecode arcade uses the blocks and python technologies.
 
 ## Usage
 
