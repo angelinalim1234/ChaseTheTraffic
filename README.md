@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-This game is called Chase the traffic and the aim of the game is so that we can improve our motoric skill, 
+This game is called Chase the traffic and the aim of the game is so that we can improve our motoric skill. Games is one of the fun way to improve motoric skill As we need to try to avoid the enemy while collecting the traffic. The elements that are needed to play the game are precise timing, fast movement, coordination, and precise movement.
 
 ## Features
 * Sprite will jump when you press the A button
